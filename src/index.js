@@ -3,8 +3,10 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// imports all necessary elemnts
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+// Creating a root DOM element and rendering the app into it
+const root = ReactDOM.createRoot(document.getElementById('root')); // Getting the root element in the HTML and preparing to render
 root.render(
   <React.StrictMode>
     <App />
