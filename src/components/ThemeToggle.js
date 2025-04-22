@@ -1,4 +1,5 @@
 import React from "react";
+// we can set our theme
 
 function ThemeToggle({ theme, setTheme }) {
   return (

@@ -1,4 +1,4 @@
-// SidebarMenu is used to display the task and its status 
+// SidebarMenu is used to display the task and its status as completed,flagged,and scheduled
 const SidebarMenu = ({ setCategory, todos }) => {
     return (
       <div className="sidebar-menu">

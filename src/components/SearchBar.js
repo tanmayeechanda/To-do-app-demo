@@ -1,5 +1,5 @@
 import React from "react";
-// SearchBar is used to seach remainders
+// SearchBar is used to seach remainders for completeing tasks
 
 const SearchBar = ({ search, setSearch }) => {
   return (
